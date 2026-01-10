@@ -1,3 +1,108 @@
+
+# Enterprise Security Governance AI
+
+Enterprise-grade AI-supported security governance framework and operating model.
+
+---
+
+## 🚀 Start here — Enterprise portfolio overview
+
+This repository represents an **enterprise security governance portfolio**.
+
+It demonstrates how information security can be structured, assessed, and governed at organizational and leadership level — supported by AI-assisted analytical workflows.
+
+The portfolio is designed to show:
+
+• How governance frameworks are built and operationalized  
+• How executive decision support can be structured  
+• How incidents and SOC outputs can be transformed into governance insight  
+• How AI can be used safely within security governance  
+
+This is **not** a SOC platform, automation toolkit, or AI experiment repo.
+
+It is an **enterprise governance solution design and case portfolio**.
+
+It is intended to be explored as a layered professional deliverable.
+
+---
+
+## 🧭 How this repository is meant to be used
+
+This repository can be used to:
+
+• Review an enterprise-grade governance framework  
+• Examine a complete operating model  
+• Explore controlled AI agent architectures  
+• Study formal enterprise use cases  
+• Support interviews, portfolio reviews, and leadership discussions  
+
+Each main folder represents a **formal layer of the solution**, not isolated documents.
+
+---
+
+## 🗂 Repository structure — Portfolio index
+
+### 01 — Executive overview  
+**Leadership framing, value proposition, and executive positioning**
+
+📁 `/01_Executive_Overview`
+
+---
+
+### 02 — Portfolio  
+**Formal enterprise portfolio material and packaged assessment cases**
+
+📁 `/02_Portfolio`
+
+---
+
+### 03 — Governance framework  
+**Enterprise governance assessment framework, baselines, and evaluation methodology**
+
+📁 `/03_Governance_Framework`
+
+---
+
+### 04 — Operating model  
+**Organizational operating model, roles, processes, and execution structure**
+
+📁 `/04_Operating_Model`
+
+---
+
+### 05 — Agent architecture  
+**AI agent design principles, controlled workflows, prompt contracts, and governance controls**
+
+📁 `/05_Agent_Architecture`
+
+---
+
+### 06 — Use cases and scenarios  
+**Official enterprise cases and applied governance scenarios, including:**
+
+• Incident → governance analysis  
+• SOC → governance assessment  
+• Executive and board-level security posture reviews  
+• Organizational security maturity evaluations  
+
+📁 `/06_Use_Cases_and_Scenarios`
+
+---
+
+## 🧩 Relationship between layers
+
+The solution is structured so that:
+
+Governance framework → defines *what must exist*  
+Operating model → defines *how it operates*  
+Agent architecture → defines *how analysis is supported*  
+Use cases → demonstrate *how it works in reality*
+
+Together, these layers form a **complete enterprise security governance support system**.
+
+---
+
+
 \# Enterprise Security Governance AI
 
 
