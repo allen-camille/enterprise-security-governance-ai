@@ -64,35 +64,19 @@ If you are new to this portfolio, start here:
 ```mermaid
 flowchart TD
 
-    A[Executive Layer<br/>Vision, positioning, decision support] --> B[Portfolio Core<br/>Solution foundation & logic]
+A[Executive Layer<br/>Vision, positioning, decision support] --> B[Portfolio Core<br/>Solution foundation & logic]
 
-    B --> C[Governance Framework<br/>Security, risk & AI governance]
-    B --> D[Operating Model<br/>How security functions work]
-    B --> E[Agent Architecture<br/>Enterprise & logical design]
+B --> C[Governance Framework<br/>Security, risk & AI governance]
+B --> D[Operating Model<br/>How security functions work]
+B --> E[Agent Architecture<br/>Enterprise & logical design]
 
-    D --> F[Use Cases & Scenarios<br/>Incident, SOC, risk, public sector, executive]
-    C --> F
-    E --> F
+C --> F[Use Cases & Scenarios<br/>Incident, SOC, risk, public sector, executive]
+D --> F
+E --> F
 
-    F --> G[Incident → Risk → Governance → Decision → Improvement]
-
-    G --> A
-
-    subgraph Executive & Strategy
-        A
-    end
-
-    subgraph Design & Control
-        B
-        C
-        D
-        E
-    end
-
-    subgraph Application & Learning
-        F
-        G
-    end
+F --> G[Continuous Improvement Loop<br/>Incident → Risk → Governance → Decision → Improvement]
+G --> A
+```
 
 
 
