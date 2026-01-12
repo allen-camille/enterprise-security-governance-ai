@@ -59,6 +59,43 @@ If you are new to this portfolio, start here:
 
 ---
 
+## Portfolio structure overview
+
+```mermaid
+flowchart TD
+
+    A[Executive Layer<br/>Vision, positioning, decision support] --> B[Portfolio Core<br/>Solution foundation & logic]
+
+    B --> C[Governance Framework<br/>Security, risk & AI governance]
+    B --> D[Operating Model<br/>How security functions work]
+    B --> E[Agent Architecture<br/>Enterprise & logical design]
+
+    D --> F[Use Cases & Scenarios<br/>Incident, SOC, risk, public sector, executive]
+    C --> F
+    E --> F
+
+    F --> G[Incident → Risk → Governance → Decision → Improvement]
+
+    G --> A
+
+    subgraph Executive & Strategy
+        A
+    end
+
+    subgraph Design & Control
+        B
+        C
+        D
+        E
+    end
+
+    subgraph Application & Learning
+        F
+        G
+    end
+
+
+
 ## What this portfolio demonstrates
 
 This portfolio demonstrates how an enterprise security capability can be built by connecting:
