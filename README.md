@@ -141,6 +141,59 @@ This repository can be used as:
 It is built to be **navigated, not executed.**
 
 ---
+## How organizations use this solution in regulated environments
+
+This portfolio is designed to support enterprise and regulated organizations in developing security capability without exposing sensitive operational or incident data.
+
+The solution can be used safely and effectively to support:
+
+• governance design and maturity work
+• incident-to-governance analysis models
+• leadership discussions and decision preparation
+• risk and control framework alignment
+• controlled AI-supported analysis in non-production contexts
+
+Organizations can apply this structure using:
+
+• anonymized or synthetic scenarios
+• tabletop and exercise-based cases
+• historical or red-team material
+• policy, audit and governance inputs
+• architectural and capability assessments
+
+This enables organizations to work with the model without processing live personal data, operational secrets or regulated incident content.
+
+## Regulatory and compliance alignment
+
+The portfolio is designed to align with enterprise regulatory and governance needs, including:
+
+• NIS2 – by supporting management accountability, incident-to-risk translation, governance structures and continuous improvement
+• GDPR – by enabling security governance and risk work without requiring personal data processing
+• ISO/IEC 27001 & 27002 – by mapping operational security work to governance, risk management and control ownership
+• ISO/IEC 27035 – by extending incident management into organizational learning and leadership decision-making
+• DORA and sector regulations – by supporting resilience, control validation and executive-level risk understanding
+
+The solution focuses on capability, structure and governance, not on collecting or automating operational security data.
+
+## Controlled AI usage
+
+When AI is used, it is positioned as:
+
+• decision-support, not automation
+• structured analysis, not free-form chat
+• governance-controlled, not consumer AI
+• human-in-the-loop by design
+
+This enables organizations to explore AI-supported security analysis in a way that supports regulatory expectations on:
+
+• traceability
+• accountability
+• data minimization
+• and management oversight.
+
+
+
+##
 
 ## Positioning
 
