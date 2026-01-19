@@ -197,6 +197,71 @@ Together, these layers form a unified enterprise security governance architectur
 The AI solution functions as the governance intelligence layer that connects operational reality to executive decision-making and board-level security governance.
 
 
+## Executive & board deliverables
+
+Flagship Enterprise Case #004 is designed to produce concrete executive and board-level governance outputs — not technical reports.
+
+Within this flagship, the AI solution supports leadership by generating structured deliverables such as:
+
+### 1. Board-level governance artifacts
+
+- enterprise security governance charters  
+- board mandate and oversight models  
+- security ownership and accountability frameworks  
+- board reporting structures and decision models  
+- security governance maturity models  
+
+These artifacts support boards in formalizing security governance as part of enterprise oversight.
+
+---
+
+### 2. Executive operating model deliverables
+
+- enterprise security operating model definitions  
+- executive decision rights and escalation structures  
+- cross-functional governance integration models  
+- risk ownership and accountability mapping  
+- governance KPI and oversight structures  
+
+These outputs support executive leadership in institutionalizing security governance beyond individual roles.
+
+---
+
+### 3. Strategic transformation assets
+
+- multi-year security governance roadmaps  
+- enterprise security capability models  
+- investment prioritization frameworks  
+- transformation program structures  
+- governance performance measurement models  
+
+These deliverables enable long-term, auditable security transformation programs.
+
+---
+
+### 4. Regulatory and assurance support
+
+- regulatory alignment mapping (NIS2, DORA, ISO 27001, public-sector governance)  
+- audit and assurance structures  
+- evidence-based governance documentation  
+- board-ready compliance narratives  
+
+This allows organizations to demonstrate not only control implementation, but governance maturity.
+
+---
+
+### 5. Decision-support packages
+
+- board and executive briefing packs  
+- strategic security risk narratives  
+- scenario-based governance analysis  
+- investment and trade-off decision support  
+
+The AI assistant functions as a governance intelligence layer, transforming technical, risk, and operational inputs into executive-grade governance outputs.
+
+
+
+
 ## Board-level value
 
 This flagship case enables boards and executive committees to:
