@@ -85,6 +85,118 @@ How can an organization establish a **board-level security governance model** th
 while avoiding ad-hoc steering and personality-driven leadership?
 
 
+
+## Enterprise governance architecture
+
+This flagship case introduces an enterprise-level security governance architecture that shifts the organization from management-driven security to board-mandated, systemized governance.
+
+The architecture is designed to establish security as a permanent enterprise function, embedded into decision structures, accountability models, and operating mechanisms.
+
+It is built around five integrated governance layers:
+
+---
+
+### 1. Board governance layer – Strategic oversight
+
+Establishes security as a standing board responsibility.
+
+Focus areas:
+- board-level ownership of enterprise security risk  
+- integration of security into corporate governance structures  
+- formal mandates, charters and reporting obligations  
+- linkage between security posture, business risk and enterprise strategy  
+
+Typical outputs:
+- board security governance charter  
+- defined committee oversight model  
+- board-level security KPI structure  
+- regulatory-aligned governance reporting model  
+
+---
+
+### 2. Executive governance layer – Accountability and control
+
+Creates a formal executive system for ownership, prioritization and investment governance.
+
+Focus areas:
+- executive accountability model  
+- cross-functional security steering structures  
+- decision rights and escalation mechanisms  
+- portfolio-level prioritization and investment control  
+
+Typical outputs:
+- executive security governance framework  
+- RACI and ownership architecture  
+- security investment steering model  
+- enterprise security roadmap governance  
+
+---
+
+### 3. Enterprise operating model layer – Structural integration
+
+Embeds security into how the organization actually operates.
+
+Focus areas:
+- enterprise security operating model  
+- integration with risk, compliance, IT and business operations  
+- lifecycle governance of controls, risks and capabilities  
+- alignment between operational execution and governance intent  
+
+Typical outputs:
+- enterprise security operating model  
+- governance-integrated operating workflows  
+- role and responsibility architecture  
+- control and capability lifecycle structures  
+
+---
+
+### 4. Risk and capability governance layer – Measurable management
+
+Transforms security from reporting into governed enterprise capability.
+
+Focus areas:
+- enterprise risk and capability posture management  
+- maturity and capability modeling  
+- continuous governance measurement  
+- regulatory and audit alignment  
+
+Typical outputs:
+- enterprise security capability framework  
+- governance maturity model  
+- risk ownership and monitoring structures  
+- audit- and regulation-aligned control model  
+
+---
+
+### 5. Strategic transformation layer – Long-term enterprise evolution
+
+Enables board-driven, multi-year security transformation.
+
+Focus areas:
+- long-term security transformation programs  
+- enterprise capability development  
+- strategic investment planning  
+- institutionalization of security governance  
+
+Typical outputs:
+- multi-year transformation roadmap  
+- strategic investment portfolio  
+- enterprise capability development plan  
+- board-level governance evolution model  
+
+---
+
+Together, these layers form a unified enterprise security governance architecture that allows the board and executive leadership to:
+
+- steer security as an enterprise system  
+- institutionalize accountability beyond individuals  
+- govern risk and capability development  
+- demonstrate regulatory-aligned security leadership  
+- sustain long-term security maturity growth  
+
+The AI solution functions as the governance intelligence layer that connects operational reality to executive decision-making and board-level security governance.
+
+
 ## Board-level value
 
 This flagship case enables boards and executive committees to:
