@@ -1,5 +1,11 @@
 # Enterprise Security Governance AI
 
+
+**Audience:** CISO and security leadership, GRC and compliance professionals, public sector security functions, and enterprise security consultants.
+
+**Focus:** Connecting incident response, organizational risk and governance into executive decision-support using a governance-first, human-in-the-loop AI approach.
+
+
 **Enterprise-oriented security solution and portfolio focused on building organizational security capability – from incident response to executive decision-making.**
 
 This portfolio demonstrates how security operations, risk management and governance can be connected into a structured enterprise security model.
